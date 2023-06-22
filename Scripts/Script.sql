@@ -1,1 +1,1 @@
-select * from albums a where AlbumId between 1 and 10;
+select * from albums a where AlbumId between 1 and 11;
